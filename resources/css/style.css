@@ -1,0 +1,22 @@
+body {
+    background-color: red;
+    text-align: center;
+}
+#title {
+    border: blue solid 5px;
+    background-color: lightblue;
+}
+.paragraph {
+    border: blue dashed 5px;
+    background-color: lightblue;
+    width: 250px;
+    padding: 15px;
+}
+#first {
+    text-align: left;
+}
+#image {
+    position: relative;
+    top: -400px;
+    right: -250px;
+}
